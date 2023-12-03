@@ -1,0 +1,3 @@
+/home/gly/socket/1/cmake-build-linux/CMakeFiles/edit_cache.dir
+/home/gly/socket/1/cmake-build-linux/CMakeFiles/rebuild_cache.dir
+/home/gly/socket/1/cmake-build-linux/CMakeFiles/socket1.dir

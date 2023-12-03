@@ -1,0 +1,7 @@
+cmake_minimum_required(VERSION 3.16)
+project(socket1)
+
+set(CMAKE_CXX_STANDARD 17)
+
+add_executable(socket1 main.cpp)
+target_link_libraries(socket1 pthread)

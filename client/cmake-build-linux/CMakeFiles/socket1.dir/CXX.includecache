@@ -1,0 +1,30 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/gly/socket/1/main.cpp
+iostream
+-
+cstdio
+/home/gly/socket/1/cstdio
+cstring
+/home/gly/socket/1/cstring
+cstdlib
+/home/gly/socket/1/cstdlib
+unistd.h
+/home/gly/socket/1/unistd.h
+netdb.h
+/home/gly/socket/1/netdb.h
+sys/types.h
+/home/gly/socket/1/sys/types.h
+sys/socket.h
+/home/gly/socket/1/sys/socket.h
+arpa/inet.h
+/home/gly/socket/1/arpa/inet.h
+pthread.h
+/home/gly/socket/1/pthread.h
+

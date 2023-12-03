@@ -1,0 +1,20 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/gly/server/1/main.cpp
+iostream
+-
+stdlib.h
+/home/gly/server/1/stdlib.h
+unistd.h
+/home/gly/server/1/unistd.h
+string.h
+/home/gly/server/1/string.h
+arpa/inet.h
+/home/gly/server/1/arpa/inet.h
+

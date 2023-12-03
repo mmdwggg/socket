@@ -1,0 +1,3 @@
+/home/gly/server/1/cmake-build-linux/CMakeFiles/rebuild_cache.dir
+/home/gly/server/1/cmake-build-linux/CMakeFiles/edit_cache.dir
+/home/gly/server/1/cmake-build-linux/CMakeFiles/server1.dir
